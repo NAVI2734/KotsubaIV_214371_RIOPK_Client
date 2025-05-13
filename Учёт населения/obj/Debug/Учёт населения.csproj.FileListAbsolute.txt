@@ -1,0 +1,204 @@
+C:\Users\NAVI\source\repos\Учёт населения\Учёт населения\bin\Debug\Население.mdf
+C:\Users\NAVI\source\repos\Учёт населения\Учёт населения\bin\Debug\Население_log.ldf
+C:\Users\NAVI\source\repos\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe.config
+C:\Users\NAVI\source\repos\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe
+C:\Users\NAVI\source\repos\Учёт населения\Учёт населения\bin\Debug\Учёт населения.pdb
+C:\Users\NAVI\source\repos\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csprojAssemblyReference.cache
+C:\Users\NAVI\source\repos\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Form1.resources
+C:\Users\NAVI\source\repos\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Properties.Resources.resources
+C:\Users\NAVI\source\repos\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.GenerateResource.cache
+C:\Users\NAVI\source\repos\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.CoreCompileInputs.cache
+C:\Users\NAVI\source\repos\Учёт населения\Учёт населения\obj\Debug\Учёт населения.exe
+C:\Users\NAVI\source\repos\Учёт населения\Учёт населения\obj\Debug\Учёт населения.pdb
+M:\Учёт населения\Учёт населения\bin\Debug\Население.mdf
+M:\Учёт населения\Учёт населения\bin\Debug\Население_log.ldf
+M:\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe.config
+M:\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe
+M:\Учёт населения\Учёт населения\bin\Debug\Учёт населения.pdb
+M:\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csprojAssemblyReference.cache
+M:\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Form1.resources
+M:\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Properties.Resources.resources
+M:\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.GenerateResource.cache
+M:\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.CoreCompileInputs.cache
+M:\Учёт населения\Учёт населения\obj\Debug\Учёт населения.exe
+M:\Учёт населения\Учёт населения\obj\Debug\Учёт населения.pdb
+M:\Учёт населения\Учёт населения\obj\Debug\Interop.ACTIVEXLib.dll
+M:\Учёт населения\Учёт населения\obj\Debug\Interop.LCC11.dll
+M:\Учёт населения\Учёт населения\obj\Debug\Interop.MsoEuro.dll
+M:\Учёт населения\Учёт населения\obj\Debug\Interop.MsoScreenRecorderLib.dll
+M:\Учёт населения\Учёт населения\obj\Debug\Interop.TASKLAUNCHLib.dll
+M:\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.ResolveComReference.cache
+M:\Население 1\Учёт населения\Учёт населения\bin\Debug\Население.mdf
+M:\Население 1\Учёт населения\Учёт населения\bin\Debug\Население_log.ldf
+M:\Население 1\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe.config
+M:\Население 1\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe
+M:\Население 1\Учёт населения\Учёт населения\bin\Debug\Учёт населения.pdb
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csprojAssemblyReference.cache
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Interop.ACTIVEXLib.dll
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Interop.LCC11.dll
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Interop.MsoEuro.dll
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Interop.MsoScreenRecorderLib.dll
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Interop.TASKLAUNCHLib.dll
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.ResolveComReference.cache
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Form1.resources
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Properties.Resources.resources
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.GenerateResource.cache
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.CoreCompileInputs.cache
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Учёт населения.exe
+M:\Население 1\Учёт населения\Учёт населения\obj\Debug\Учёт населения.pdb
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\bin\Debug\Население.mdf
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\bin\Debug\Население_log.ldf
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe.config
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.pdb
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csprojAssemblyReference.cache
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.ACTIVEXLib.dll
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.LCC11.dll
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoEuro.dll
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoScreenRecorderLib.dll
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.TASKLAUNCHLib.dll
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.ResolveComReference.cache
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Form1.resources
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Properties.Resources.resources
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.GenerateResource.cache
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.CoreCompileInputs.cache
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.exe
+D:\Диплом\Преддипломная практика\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.pdb
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Население.mdf
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Население_log.ldf
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe.config
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.pdb
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csprojAssemblyReference.cache
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.ACTIVEXLib.dll
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.LCC11.dll
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoEuro.dll
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoScreenRecorderLib.dll
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.TASKLAUNCHLib.dll
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.ResolveComReference.cache
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Form1.resources
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Properties.Resources.resources
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.GenerateResource.cache
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.CoreCompileInputs.cache
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.exe
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.pdb
+D:\Диплом\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Статистика.resources
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csprojAssemblyReference.cache
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.ACTIVEXLib.dll
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.LCC11.dll
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoEuro.dll
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoScreenRecorderLib.dll
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.TASKLAUNCHLib.dll
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.ResolveComReference.cache
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Form1.resources
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Статистика.resources
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.GenerateResource.cache
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.exe
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.pdb
+M:\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Население.mdf
+M:\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Население_log.ldf
+M:\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe.config
+M:\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe
+M:\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.pdb
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Properties.Resources.resources
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.CoreCompileInputs.cache
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Население.mdf
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Население_log.ldf
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe.config
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.pdb
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csprojAssemblyReference.cache
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.LCC11.dll
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoEuro.dll
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoScreenRecorderLib.dll
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.TASKLAUNCHLib.dll
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.ResolveComReference.cache
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Form1.resources
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Properties.Resources.resources
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Статистика.resources
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.GenerateResource.cache
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.CoreCompileInputs.cache
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.exe
+C:\Users\NAVI\Desktop\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.pdb
+D:\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Население.mdf
+D:\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Население_log.ldf
+D:\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe.config
+D:\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe
+D:\14 мая\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.pdb
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csprojAssemblyReference.cache
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.ACTIVEXLib.dll
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.LCC11.dll
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoEuro.dll
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoScreenRecorderLib.dll
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.TASKLAUNCHLib.dll
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.ResolveComReference.cache
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Form1.resources
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Properties.Resources.resources
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Статистика.resources
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.GenerateResource.cache
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.CoreCompileInputs.cache
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.exe
+D:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.pdb
+M:\14 мая\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.О_программе.resources
+E:\10 июня\PRG\Учёт населения\Учёт населения\bin\Debug\Население.mdf
+E:\10 июня\PRG\Учёт населения\Учёт населения\bin\Debug\Население_log.ldf
+E:\10 июня\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe.config
+E:\10 июня\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe
+E:\10 июня\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.pdb
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csprojAssemblyReference.cache
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.ACTIVEXLib.dll
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.LCC11.dll
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoEuro.dll
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoScreenRecorderLib.dll
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.TASKLAUNCHLib.dll
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.ResolveComReference.cache
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Form1.resources
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Properties.Resources.resources
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.О_программе.resources
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Статистика.resources
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.GenerateResource.cache
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.CoreCompileInputs.cache
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.exe
+E:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.pdb
+D:\10 июня\PRG\Учёт населения\Учёт населения\bin\Debug\Население.mdf
+D:\10 июня\PRG\Учёт населения\Учёт населения\bin\Debug\Население_log.ldf
+D:\10 июня\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe.config
+D:\10 июня\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe
+D:\10 июня\PRG\Учёт населения\Учёт населения\bin\Debug\Учёт населения.pdb
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csprojAssemblyReference.cache
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.ACTIVEXLib.dll
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.LCC11.dll
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoEuro.dll
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.MsoScreenRecorderLib.dll
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Interop.TASKLAUNCHLib.dll
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.ResolveComReference.cache
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Form1.resources
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Properties.Resources.resources
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.О_программе.resources
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Статистика.resources
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.GenerateResource.cache
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.CoreCompileInputs.cache
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.exe
+D:\10 июня\PRG\Учёт населения\Учёт населения\obj\Debug\Учёт населения.pdb
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.AssemblyReference.cache
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Interop.LCC11.dll
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Interop.MsoEuro.dll
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Interop.TASKLAUNCHLib.dll
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.ResolveComReference.cache
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Form1.resources
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Properties.Resources.resources
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.О_программе.resources
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Учёт_населения.Статистика.resources
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.GenerateResource.cache
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Учёт населения.csproj.CoreCompileInputs.cache
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\bin\Debug\Население.mdf
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\bin\Debug\Население_log.ldf
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe.config
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\bin\Debug\Учёт населения.exe
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\bin\Debug\Учёт населения.pdb
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\____ ___.46401469.Up2Date
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Учёт населения.exe
+C:\Users\NAVI\Desktop\Учёт населения\Учёт населения\obj\Debug\Учёт населения.pdb
